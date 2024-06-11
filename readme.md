@@ -1,4 +1,4 @@
-CUSTOM WIDGET FOR DISPLAYING 5 RECENT BLOG POST ON WIDGET SECTION.
+A CUSTOM PLUGIN FOR DISPLAYING 5 RECENT BLOG POST ON WIDGET SECTION.
 
 ## Overview
 
@@ -11,7 +11,7 @@ Recent Blog Post - A plugin to create a widget for 5 recent blog post
 3. Click the "Upload Plugin" button and select the "Recent Blog Post Widget" plugin that you have downloaded.
 4. Click on the "Install Now" button and the Activate the plugin.
 
-## To Add the into widget
+## To Add the plugin into widget
 
 1. Navigate to Appearance and select the Widget option from the menu.
 2. click on the + symbol where ever you want to put the widget.
