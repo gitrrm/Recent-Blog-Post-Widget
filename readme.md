@@ -1,3 +1,5 @@
+CUSTOM WIDGET FOR DISPLAYING 5 RECENT BLOG POST ON WIDGET SECTION.
+
 ## Overview
 
 Recent Blog Post - A plugin to create a widget for 5 recent blog post

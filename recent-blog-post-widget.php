@@ -23,7 +23,7 @@ class Recent_Posts_Widget extends WP_Widget {
             echo $args['before_title'] . apply_filters('widget_title', $instance['title']) . $args['after_title'];
         }
 
-        // Query for the 5 most recent posts
+        // Query for the 5 most recent posts.
         $recent_posts = new WP_Query(array(
             'posts_per_page' => 5,
             'post_status' => 'publish',
